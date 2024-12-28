@@ -6,7 +6,7 @@ This project uses Natural Language Processing (NLP) and machine learning to anal
 
 ## **Project Details**
 - **Dataset**: [`complaints.csv.zip`](./complaints.csv.zip)  
-- **Code Name**: [`NLP_Customer_Narrative`](./NLP_Customer_Narrative)
+- **Code Name**: [`NLP_Customer_Narrative.ipynb`](./NLP_Customer_Narrative.ipynb)
 
 ---
 
